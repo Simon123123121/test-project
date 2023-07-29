@@ -1,2 +1,2 @@
-print('привет мир!')
-print('hello world!')
+print('пока мир!')
+print('goodbye world!')
