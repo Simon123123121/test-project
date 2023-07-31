@@ -1,2 +1,3 @@
 print('goodbye мир!')
 print('пока world!')
+print('Мир?')
