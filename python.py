@@ -1,2 +1,2 @@
-print('goodbye мир!')
+print('goodbye world!!!')
 print('пока world!')
